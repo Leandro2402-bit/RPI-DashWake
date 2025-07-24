@@ -1,5 +1,6 @@
 # 🚨 Embedded Linux Project – Monitoring System with Raspberry Pi and ESP32
----
+
+## DashWake
 
 **🎓 National University of Colombia - Manizales Campus**
 **📚 Course: Embedded Linux Programming**
