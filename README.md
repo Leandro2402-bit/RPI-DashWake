@@ -2,10 +2,10 @@
 
 ## DashWake
 
-**🎓 National University of Colombia - Manizales Campus**
-**📚 Course: Embedded Linux Programming**
-**👨‍🏫 Professor:** Juan Bernardo Gomez Mendoza
-**📅 Delivery Date:** July 24, 2025
+- **🎓 National University of Colombia - Manizales Campus**
+- **📚 Course: Embedded Linux Programming**
+- **👨‍🏫 Professor:** Juan Bernardo Gomez Mendoza
+- **📅 Delivery Date:** July 24, 2025
 ---
 
 ## 👥 Authors
