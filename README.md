@@ -54,24 +54,24 @@ Develop a robust and functional embedded system that enables:
 ---
 
 ## 🗂️ Repository Structure
-├── Core/ # Embedded system logic
-│ ├── modules/ # Functional modules
-│ │ ├── btn_handler.c # Alarm button handler
-│ │ ├── btn_handler.h
-│ │ ├── ntp_over_http.c # NTP request via libcurl
-│ │ ├── ntp_over_http.h
-│ │ ├── webHandler.c # Web data handler
-│ │ ├── webHandler.h
-│ ├── CMakeLists.txt # CMake build configuration
-│ └── main.c # Main execution logic
-├── page/ # Web interface for data display
-│ ├── app.js # Frontend JavaScript logic
-│ ├── index.html # Main web page
-│ └── style.css # Page styling
-├── .gitignore # Git ignored files
-├── README.md # This file
-├── build-core.sh # Build script for core
-├── install-dashwake.sh # Installation/deployment script
+- ├── Core/ # Embedded system logic
+- │ ├── modules/ # Functional modules
+- │ │ ├── btn_handler.c # Alarm button handler
+- │ │ ├── btn_handler.h
+- │ │ ├── ntp_over_http.c # NTP request via libcurl
+- │ │ ├── ntp_over_http.h
+- │ │ ├── webHandler.c # Web data handler
+- │ │ ├── webHandler.h
+- │ ├── CMakeLists.txt # CMake build configuration
+- │ └── main.c # Main execution logic
+- ├── page/ # Web interface for data display
+- │ ├── app.js # Frontend JavaScript logic
+- │ ├── index.html # Main web page
+- │ └── style.css # Page styling
+- ├── .gitignore # Git ignored files
+- ├── README.md # This file
+- ├── build-core.sh # Build script for core
+- ├── install-dashwake.sh # Installation/deployment script
 
 ---
 
